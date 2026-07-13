@@ -19,12 +19,13 @@ Data Visualization: Power BI Desktop
 Data Transformation: Power Query (ETL process)
 
 Data Modeling: DAX (Data Analysis Expressions) for custom metrics and KPIs
+ 
  Dashboard preview
  https://github.com/Oreoluwa456/shopping-behavior-insights/blob/main/imagee.png
+ 
  Dataset used
+ https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
  
- 
-
 Key Performance Indicators (KPIs)
 The dashboard tracks four primary high-level metrics to gauge business health at a glance:
 
