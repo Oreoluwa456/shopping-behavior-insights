@@ -1,8 +1,8 @@
-        **Shopping Behavior Insights Dashboard**
+        Shopping Behavior Insights Dashboard
 Project Overview
 This repository contains a Power BI Dashboard focused on analyzing consumer purchasing behavior. By evaluating demographic distributions, regional sales, product preferences, and shipping choices, this project transforms raw retail data into actionable business intelligence. The goal is to help stakeholders understand what drives customer behavior and where revenue opportunities lie.
 
-            **Business Objective**
+            Business Objective
 The primary objective of this project is to optimize retail sales strategies and enhance customer retention by:
 
 Identifying high-performing product categories and item types.
@@ -45,7 +45,6 @@ Purchase Frequency Analysis: A horizontal bar chart identifying how often custom
 Seasonality Insights: Tracking customer counts or sales volumes by Shipping Type/Season (Spring, Fall, Winter, Summer).
 
              Product Performance:
-
 Revenue by Category: Vertical bar chart showcasing top earners (Clothing, Accessories, Footwear, Outerwear).
 
 Top 10 Purchase Items by Revenue: Ranked list highlighting specific top sellers like Blouses, Shirts, and Dresses.
