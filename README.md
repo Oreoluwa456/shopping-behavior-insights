@@ -1,8 +1,8 @@
-        Shopping Behavior Insights Dashboard
+Shopping Behavior Insights Dashboard
 Project Overview
 This repository contains a Power BI Dashboard focused on analyzing consumer purchasing behavior. By evaluating demographic distributions, regional sales, product preferences, and shipping choices, this project transforms raw retail data into actionable business intelligence. The goal is to help stakeholders understand what drives customer behavior and where revenue opportunities lie.
 
-            Business Objective
+Business Objective
 The primary objective of this project is to optimize retail sales strategies and enhance customer retention by:
 
 Identifying high-performing product categories and item types.
@@ -13,20 +13,14 @@ Analyzing purchasing frequency and preferences to improve targeted marketing cam
 
 Evaluating fulfillment methods (shipping types) to optimize logistics and customer satisfaction.
 
-         Tools Used
+Tools Used
 Data Visualization: Power BI Desktop
 
 Data Transformation: Power Query (ETL process)
 
 Data Modeling: DAX (Data Analysis Expressions) for custom metrics and KPIs
- 
-           Dashboard preview
- https://github.com/Oreoluwa456/shopping-behavior-insights/blob/main/imagee.png
- 
-              Dataset used
- https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
- 
-          Key Performance Indicators (KPIs)
+
+Key Performance Indicators (KPIs)
 The dashboard tracks four primary high-level metrics to gauge business health at a glance:
 
 Total Revenue: $233K
@@ -37,14 +31,15 @@ Total Customers: 3,900
 
 Average Review Rating: 3.75 / 5.0
 
-         Dashboard Features & Visualizations
+Dashboard Features & Visualizations
 Demographic Segmentation: A grouped bar chart tracking Age Group and Gender Distribution across Adult, Old, and Young categories.
 
 Purchase Frequency Analysis: A horizontal bar chart identifying how often customers return to buy (e.g., Every 3 Months, Annually, Monthly, etc.).
 
 Seasonality Insights: Tracking customer counts or sales volumes by Shipping Type/Season (Spring, Fall, Winter, Summer).
 
-             Product Performance:
+Product Performance:
+
 Revenue by Category: Vertical bar chart showcasing top earners (Clothing, Accessories, Footwear, Outerwear).
 
 Top 10 Purchase Items by Revenue: Ranked list highlighting specific top sellers like Blouses, Shirts, and Dresses.
@@ -57,7 +52,7 @@ Geographical Mapping: A filled US map visual showing Geographical Sales Distribu
 
 Interactive Slicers: Dynamic filtering capabilities based on Customer Satisfaction and Payment Method.
 
-              Key Insights
+Key Insights
 Demographic Dominance: The "Adult" age group represents the largest customer segment, with male consumers showing strong representation across multiple age brackets.
 
 Core Categories: Clothing is the clear primary driver of revenue, followed by Accessories. Drill-down data shows Blouses and Shirts leading individual item revenue.
@@ -75,5 +70,5 @@ Capitalize on Color Preferences: Ensure inventory levels for top-preferred color
 
 Leverage Store Pickup: Since nearly 33% of customers utilize Store Pickup, implement "buy-online-pickup-in-store" (BOPIS) exclusive offers to drive foot traffic and potential impulse buys at brick-and-mortar locations.
 
-     Conclusion
+Conclusion
 The Shopping Behavior Insights dashboard successfully highlights the strong areas of the retail business—namely a robust adult customer base and highly balanced delivery ecosystems. By addressing the mid-tier review ratings and leaning heavily into high-revenue clothing categories, the business is well-positioned to scale its total revenue beyond the current $233K mark.
