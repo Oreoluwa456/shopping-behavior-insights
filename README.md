@@ -20,8 +20,10 @@ The primary objective of this project is to optimize retail sales strategies and
 * **Data Visualization:** Power BI Desktop
 * **Data Transformation:** Power Query (ETL process)
 * **Data Modeling:** DAX (Data Analysis Expressions) for custom metrics and KPIs
+
   ## Dashborad preview
-  
+  https://github.com/Oreoluwa456/shopping-behavior-insights/blob/main/imagee.png
+
   ##dataset used
   https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
 
