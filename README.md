@@ -20,6 +20,9 @@ Data Transformation: Power Query (ETL process)
 
 Data Modeling: DAX (Data Analysis Expressions) for custom metrics and KPIs
  Dashboard preview
+ https://github.com/Oreoluwa456/shopping-behavior-insights/blob/main/imagee.png
+ Dataset used
+ 
  
 
 Key Performance Indicators (KPIs)
