@@ -24,7 +24,7 @@ The primary objective of this project is to optimize retail sales strategies and
   ## Dashborad preview
   https://github.com/Oreoluwa456/shopping-behavior-insights/blob/main/imagee.png
 
-  ##dataset used
+  ## Dataset used
   https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset
 
 ## Key Performance Indicators (KPIs)
